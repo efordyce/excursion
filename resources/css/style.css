@@ -9,3 +9,6 @@ p {color: gray;
 font-size: 21px;}
 body {background-color: black;}
 div {text-align: center;}
+#download {color: aquamarine;
+font-size: 16px;}
+#copyright {text-align: right;}
